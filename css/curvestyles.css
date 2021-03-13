@@ -1,0 +1,154 @@
+.wrapper2 .curve1 {
+    width: 300px;
+    height: 40px;
+    border: 3px solid var(--brown-three);
+    border-radius: 12% 88% 25% 75% / 19% 80% 20% 81%;
+    position: absolute;
+    top: 50px;
+    left: -100px;
+}
+.wrapper2 .curve2 {
+    width: 300px;
+    height: 40px;
+    border: 3px solid var(--brown-three);
+    border-radius: 12% 88% 25% 75% / 19% 80% 20% 81%;
+    position: absolute;
+    top: 10px;
+    left: 40%;
+}
+.wrapper2 .curve3 {
+    width: 300px;
+    height: 40px;
+    border: 4px solid var(--brown-three);
+    border-radius: 12% 88% 25% 75% / 19% 80% 20% 81%;
+    position: absolute;
+    top: 60%;
+    left: 150px;
+}
+.wrapper2 .curve4 {
+    width: 300px;
+    height: 40px;
+    border: 3px solid var(--brown-three);
+    border-radius: 12% 88% 25% 75% / 19% 80% 20% 81%;
+    position: absolute;
+    left: 20%;
+    bottom: 75px;
+}
+.wrapper2 .curve5 {
+    width: 300px;
+    height: 40px;
+    border: 6px solid var(--brown-three);
+    border-radius: 12% 88% 25% 75% / 19% 80% 20% 81%;
+    position: absolute;
+    left: -80px;
+    top: -20px;
+}
+.wrapper2 .curve6 {
+    width: 300px;
+    height: 40px;
+    border: 3px solid var(--brown-three);
+    border-radius: 12% 88% 25% 75% / 19% 80% 20% 81%;
+    position: absolute;
+    top: 50%;
+    left: 50px;
+}
+.wrapper2 .curve7 {
+    width: 300px;
+    height: 40px;
+    border: 5px solid var(--brown-three);
+    border-radius: 12% 88% 25% 75% / 19% 80% 20% 81%;
+    position: absolute;
+    left: -150px;
+    bottom: -8px;
+}
+/*-------------*/
+.wrapper .plato-wrapper .sopa-wrapper .sopa .fideo1 {
+    width: 80px;
+    height: 80px;
+    border: 3px solid #f5df7c;
+    border-radius: 20% 80% 49% 51% / 68% 35% 65% 32% ;
+    position: absolute;
+    top: 60px;
+    left: 60px;
+}
+.wrapper .plato-wrapper .sopa-wrapper .sopa .fideo2 {
+    width: 80px;
+    height: 80px;
+    border: 3px solid #f5df7c;
+    border-radius: 20% 80% 49% 51% / 68% 35% 65% 32% ;
+    position: absolute;
+    top: 70px;
+    left: 60px;
+}
+.wrapper .plato-wrapper .sopa-wrapper .sopa .fideo3 {
+    width: 80px;
+    height: 80px;
+    border: 3px solid #f5df7c;
+    border-radius: 20% 80% 49% 51% / 68% 35% 65% 32% ;
+    position: absolute;
+    top: 85px;
+    left: 70px;
+}
+.wrapper .plato-wrapper .sopa-wrapper .sopa .fideo4 {
+    width: 80px;
+    height: 80px;
+    border: 3px solid #f5df7c;
+    border-radius: 20% 80% 49% 51% / 68% 35% 65% 32% ;
+    position: absolute;
+    top: 70px;
+    left: 80px;
+}
+.wrapper .plato-wrapper .sopa-wrapper .sopa .fideo5 {
+    width: 80px;
+    height: 80px;
+    border: 3px solid #f5df7c;
+    border-radius: 20% 80% 49% 51% / 68% 35% 65% 32% ;
+    position: absolute;
+    top: 90px;
+    left: 90px;
+}
+.wrapper .plato-wrapper .sopa-wrapper .sopa .fideo6 {
+    width: 80px;
+    height: 80px;
+    border: 3px solid #f5df7c;
+    border-radius: 20% 80% 49% 51% / 68% 35% 65% 32% ;
+    position: absolute;
+    top: 110px;
+    left: 100px;
+}
+.wrapper .plato-wrapper .sopa-wrapper .sopa .fideo7 {
+    width: 80px;
+    height: 80px;
+    border: 3px solid #f5df7c;
+    border-radius: 20% 80% 49% 51% / 68% 35% 65% 32% ;
+    position: absolute;
+    top: 70px;
+    left: 100px;
+}
+.wrapper .plato-wrapper .sopa-wrapper .sopa .fideo8 {
+    width: 80px;
+    height: 80px;
+    border: 3px solid #f5df7c;
+    border-radius: 20% 80% 49% 51% / 68% 35% 65% 32% ;
+    position: absolute;
+    top: 110px;
+    left: 112px;
+}
+.wrapper .plato-wrapper .sopa-wrapper .sopa .fideo9 {
+    width: 80px;
+    height: 80px;
+    border: 3px solid #f5df7c;
+    border-radius: 20% 80% 49% 51% / 68% 35% 65% 32% ;
+    position: absolute;
+    top: 110px;
+    left: 85px;
+}
+.wrapper .plato-wrapper .sopa-wrapper .sopa .fideo10 {
+    width: 80px;
+    height: 80px;
+    border: 3px solid #f5df7c;
+    border-radius: 20% 80% 49% 51% / 68% 35% 65% 32% ;
+    position: absolute;
+    top: 120px;
+    left: 95px;
+}
